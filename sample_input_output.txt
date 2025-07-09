@@ -1,0 +1,10 @@
+Plain Text: Hello World
+Key: 3
+Encrypted: Khoor Zruog
+
+Cipher Text: Zruog
+Key: 3
+Decrypted: World
+
+Brute Force on: Zruog
+Key 3: World

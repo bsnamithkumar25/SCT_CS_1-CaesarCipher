@@ -1,0 +1,9 @@
+Task Name: Caesar Cipher – Classical Encryption
+Intern: B S Namith Kumar
+Track: Cybersecurity
+Internship: SkillCraft Technology
+
+Description:
+This task involved building a Caesar Cipher tool in Python. The tool performs encryption, decryption with a known key, and brute-force cracking without the key. It is a hands-on demonstration of basic cryptography, brute-force logic, and clean code practices. The code includes user-friendly prompts, full comments, and follows a structured, professional format suitable for GitHub.
+
+Tools Used: Python 3, CLI (Terminal), VS Code
